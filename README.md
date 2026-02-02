@@ -58,7 +58,7 @@ This project demonstrates **data cleaning, data modeling, DAX calculations, expl
 ## 🎥 Live Project Demo
 👉 **Click below to watch the complete interactive dashboard walkthrough:**
 
-🔗 **[https://app.powerbi.com/view?r=eyJrIjoiMzI5MjU1YzctNmRjNC00MjlmLWFiYTctMTI1ZjM3MTQ0ZDQ0IiwidCI6IjgwOWQ5NWI1LTg4M2QtNDdjNS05MTRjLTA1OTdkOGZlMTg0YSJ9]**
+🔗 **[https://tinyurl.com/mufh9r4p]**
 
 ---
 
